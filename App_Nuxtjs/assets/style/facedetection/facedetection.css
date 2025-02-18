@@ -1,0 +1,58 @@
+.face-detection {
+padding: 0px 10px;
+border-radius: 5px;
+background-color: #4caf50;
+color: #fff;
+cursor: pointer;
+transition: background-color 0.3s ease-in-out;
+margin-bottom: 10px;
+font-weight: bold;
+font-size: clamp(15px, 3vw, 20px);
+
+&:focus {
+  outline: none;
+}
+
+&:active {
+  background-color: #45a049;
+  transform: translateY(3px);
+}
+
+&:hover {
+  background-color: #45a049;
+}
+}
+.video-container {
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+padding: 20px;
+}
+
+video {
+width: 100%;
+max-width: 600px;
+border: 1px solid #ddd;
+border-radius: 8px;
+}
+
+p {
+font-size: 1.2em;
+margin-top: 1em;
+text-align: center;
+}
+
+.v-progress-circular {
+  position: relative;
+}
+
+.text-h6 {
+  margin: 0;
+  font-size: 1.5em;
+  font-weight: 500;
+  content: center;
+  text-align: center;
+  color: black;
+  border-radius: 100px;
+}

@@ -1,0 +1,29 @@
+.main-banner-check-face {
+    background: #0099cc url('~/assets/images/bg.jpg') no-repeat center center;
+    background-size: cover;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    color: white;
+  }
+  
+  .main-banner-check-face .container {
+    width: 100%;
+  }
+  
+  .main-banner-check-face h3, 
+  .main-banner-check-face button, 
+  .main-banner-check-face .col-md-6:nth-child(2) {
+    display: inline-block;
+    vertical-align: middle;
+  }
+  
+  .main-banner-check-face .col-md-6 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .tables-radius {
+    border-radius: 15px;
+  }
