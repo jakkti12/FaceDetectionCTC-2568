@@ -10,6 +10,7 @@ System Requirements
 - Apache 2.4+
 - PHP 5.6/7.2
 - MySQL 5.5+
+- python 3.8+
 
 Clone repo จาก github โดยเอาไฟล์ไปไว้ที่ WORKSPACE PATH
 
@@ -40,6 +41,6 @@ Clone repo จาก github โดยเอาไฟล์ไปไว้ที�
 
 - เปิด Web Browser และรัน url (http://localhost:3000)
 - login โดยใช้ demo user / password ดังนี้
-- admin@demo.com / itc123456
-- studetn@demo.com / itc123456
-- teacher@demo.com / itc123456
+- admin / itc123456
+- studetn1 / itc123456
+- teacher1 / itc123456
