@@ -1,0 +1,1 @@
+import{_ as n,v as t,x as a,z as c,t as o,bn as _}from"./gszgXTxS.js";const s={};function r(l,u){const e=_;return o(),t("div",null,[a("main",null,[c(e)])])}const f=n(s,[["render",r]]);export{f as default};

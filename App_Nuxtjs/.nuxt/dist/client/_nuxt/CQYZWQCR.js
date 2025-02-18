@@ -1,0 +1,1 @@
+import{_ as o,t as s,v as n,x as e}from"./gszgXTxS.js";const r={},_={class:"my-5 pt-5 text-muted text-center text-small footer_bg"};function c(a,t){return s(),n("footer",_,t[0]||(t[0]=[e("p",{class:"mb-1"},"© 2567 ระบบเช็คชื่อด้วยการสแกนหน้า",-1),e("div",null,"แผนเทคโนโลยีสารสนเทศ วิทยาลัยเทคนิคชัยภูมิ",-1)]))}const m=o(r,[["render",c]]);export{m as _};

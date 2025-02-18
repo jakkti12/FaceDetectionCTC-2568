@@ -1,0 +1,1 @@
+import{a as r}from"./CCb-kr4I.js";import{o as e,v as a,t as s}from"./gszgXTxS.js";const p={__name:"logout",setup(c){const t=async()=>{try{await r.post("http://localhost:7000/auth/logout",{}),localStorage.removeItem("token"),router.push("/auth/login")}catch(o){console.error("Error during logout:",o)}};return e(()=>{t()}),(o,n)=>(s(),a("div"))}};export{p as default};

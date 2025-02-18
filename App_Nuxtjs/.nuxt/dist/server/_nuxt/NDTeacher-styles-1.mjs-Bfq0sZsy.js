@@ -1,0 +1,5 @@
+const NDTeacher_vue_vue_type_style_index_0_scoped_95e651d9_lang = ".custom-title-head[data-v-95e651d9]{font-size:clamp(16px,2vw,24px);font-weight:700}.custom-title-body[data-v-95e651d9],.custom-title-head[data-v-95e651d9]{color:#01579b;padding:0;-webkit-user-select:none;-moz-user-select:none;user-select:none}.custom-title-body[data-v-95e651d9]{font-size:clamp(16px,2vw,20px);text-align:start}.custom-title-body[data-v-95e651d9],.profile-container[data-v-95e651d9]{align-items:center;flex-direction:column}.profile-container[data-v-95e651d9]{display:flex;padding:16px;text-align:center}.profile-avatar[data-v-95e651d9]{background-color:#fff;border:2px solid #ddd;border-radius:50%;margin-bottom:8px;transition:width .3s ease,height .3s ease}.profile-name[data-v-95e651d9]{color:#4a4a4a;font-size:18px;font-weight:700;margin-top:8px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.toggle-rail-btn[data-v-95e651d9]{position:fixed;right:16px;top:16px;z-index:1050}";
+export {
+  NDTeacher_vue_vue_type_style_index_0_scoped_95e651d9_lang as default
+};
+//# sourceMappingURL=NDTeacher-styles-1.mjs-Bfq0sZsy.js.map
