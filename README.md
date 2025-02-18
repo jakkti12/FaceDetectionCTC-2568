@@ -14,7 +14,7 @@ System Requirements
 
 Clone repo จาก github โดยเอาไฟล์ไปไว้ที่ WORKSPACE PATH
 
-- https://github.com/itchaiyaphum/activity65-2
+- [https://github.com/itchaiyaphum/activity65-2](https://github.com/jakkti12/FaceDetectionCTC-2568/)
 
 1.วิธีการตั้งค่าให้้รันได้บนเครื่อง localhost
 
